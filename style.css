@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Open+Sans:300,400,700|Roboto:300,400,700');
 
 .card {
-  background: #f2f4f7;
+  background: #fefffe;
   width: 700px;
   margin: 10px auto;
   border: 1px solid #f2f4f7;
@@ -91,7 +91,8 @@ i {
  }
 
  .button-blue {
-  background: #e8edef;
+  background: linear-gradient(#e8edef, #f2f4f7);
+
   width: 100px;
   border: 1px solid #e8edef;
   border-radius: 5px;
