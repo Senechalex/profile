@@ -101,3 +101,11 @@ i {
   margin: 0px auto;
   padding: 15px;
  }
+
+.social {
+  background: transparent;
+}
+
+.icons {
+  background-image: url("images/Fond_ebeniste.jpg");
+}
